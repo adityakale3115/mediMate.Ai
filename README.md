@@ -1,3 +1,25 @@
+# MediMate.Ai 🩺
+
+MediMate.Ai is a smart medical assistant platform designed to simplify health data handling and management. This is the **Phase 1** of the project, focusing on frontend development using React.
+
+---
+
+## 📦 Tech Stack
+
+- **Frontend**: React (CRA)
+- **Styling**: CSS
+- **Deployment-ready**: CRA with `npm run build`
+
+---
+
+## ✅ Features Implemented (UI Phase)
+
+- 🏠 Home Page with Navbar
+- 📄 Upload Medical Reports (file upload input)
+- 📥 Organized Uploads Page
+- 🧭 Navigation using React Router
+- 📌 Sticky Footer with contact and links section
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
